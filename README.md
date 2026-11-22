@@ -1,6 +1,8 @@
 # msqm.fit
 Marginal Structual Quantile Model (MSQM) Use msqm.fit (MSQM) With (In) R Software
 
+https://www.youtube.com/watch?v=8OQWDLCi8s8
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
